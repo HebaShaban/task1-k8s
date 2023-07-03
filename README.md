@@ -1,0 +1,10 @@
+# task1-k8s
+#![create kube](https://github.com/HebaShaban/task1-k8s/assets/128882939/bffb850e-696e-41ad-8c8c-7a5baaab6b74)
+#![create dep](https://github.com/HebaShaban/task1-k8s/assets/128882939/7577c1e7-ee4c-4a86-907c-727f87a841ca)
+#![nginx](https://github.com/HebaShaban/task1-k8s/assets/128882939/5662cdc2-e6f8-4141-ac04-d1d32ca3ea2c)
+#![debug](https://github.com/HebaShaban/task1-k8s/assets/128882939/ea2efda3-14ec-4c7a-8b78-2972c95b0ca6)
+#![service](https://github.com/HebaShaban/task1-k8s/assets/128882939/5b4b477b-cedd-479d-a824-2069bfc4822c)
+#![Uploading html.PNG…]()
+#![Uploading get all.PNG…]()
+#![pods](https://github.com/HebaShaban/task1-k8s/assets/128882939/e4963251-f609-47b6-9ad4-3e05d91fb174)
+#![Uploading output.PNG…]()
